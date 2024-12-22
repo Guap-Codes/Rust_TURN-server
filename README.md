@@ -34,7 +34,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-turn-server-rs = { git = "https://github.com/guap-codes/rust_turn-server" }
+turn-server-rs = { git = "https://github.com/guap-codes/turn-server-rs" }
 ```
 
 ## Quick Start
