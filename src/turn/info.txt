@@ -1,0 +1,9 @@
+This module contains the core turn protocol logic, including:
+
+* Allocation management
+* Channel management
+* Permission management
+* Request management
+* Request & response handling
+* STUN protocol implementation
+

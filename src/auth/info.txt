@@ -1,0 +1,2 @@
+This module implements authentication mechanisms for the TURN server, such as 
+username/password & token-based authentication.
