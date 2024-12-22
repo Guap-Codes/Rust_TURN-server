@@ -34,7 +34,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-turn-server-rs = { git = "https://github.com/guap-codes/turn-server-rs" }
+turn-server-rs = { git = "https://github.com/guap-codes/rust_turn-server" }
 ```
 
 ## Quick Start
@@ -94,11 +94,6 @@ cargo doc --open
 Run the test suite:
 ```bash
 cargo test
-```
-
-For integration tests:
-```bash
-cargo test --test '*'
 ```
 
 ## Contributing
